@@ -1,0 +1,8 @@
+{
+  "whitelist_url": "https://raw.githubusercontent.com/Nation491/whitelist.json/main/whitelist.json",
+  "game_webhook": "https://discord.com/api/webhooks/1433170157257101422/cdmz2I2ODVwt8i_0voTaGgOWSlvdT07pgP41U74vqmrJyAK1KFiMs2MNfWMt2ddaiuO4",
+  "whitelist_webhook": "https://discord.com/api/webhooks/1433187203781103687/pqCPobtU-mBqgT26Q5nFvCsVXreiGXlu6Csk68q6RP0J1BNpv9ePxqafouQkP_bHKU8F",
+  "update_interval": 30,
+  "module_id": 104712588684071,
+  "module_function": "canos"
+}
